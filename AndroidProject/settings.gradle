@@ -1,0 +1,3 @@
+include ':UnityVibrationAndroid'
+include ':app'
+rootProject.name = "Vibration Plugin"
